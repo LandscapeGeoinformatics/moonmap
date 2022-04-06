@@ -16,7 +16,6 @@ html {
   font-size: 1em;
   line-height: 1.4;
   background-color: #fff;
-  height: 600px;
 }
 
 /*
@@ -54,7 +53,6 @@ hr {
 
 body {
     min-height: 100vh;
-    height: 600px;
     /* max-width: 400px; */
     background-color: Black;
     margin: 0 auto;
@@ -73,7 +71,7 @@ body {
 }
 
 div#moonviewer {
-  height: 600px;
+  height: 800px;
   width: 100%;
   overflow: auto; /* or overflow: hidden; */
 }
